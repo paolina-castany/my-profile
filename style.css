@@ -5,7 +5,6 @@ body {
 	color:black;
 	font-size: 18px;
 	font-family: 'Roboto', sans-serif;
-	text-align: center;
 }
 
 h1, h2 {
@@ -18,7 +17,6 @@ h1 {
 	font-size: 40px;
 	font-weight: bolder;
 }
-
 
 h2 {
 	color: black;
@@ -69,8 +67,9 @@ a:hover {
 	margin: 40px;
 	box-shadow: 0px 1px 24px 4px rgba(102,109,109,0.66);
 	border-radius: 4px;
-
-	}
+	text-align: center;
+	
+}
 
 #img-square {
 	  width: 200px;
